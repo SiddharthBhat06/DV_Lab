@@ -1,8 +1,8 @@
 def calculator():
     print("Python Calculator")
     try:
-        a= eval(input("Enter Number 1 :"))
-        b= eval(input("Enter Number 2 :"))
+        a= float(input("Enter Number 1 :"))
+        b= float(input("Enter Number 2 :"))
         c= int(input("Enter choice of operation : 1-Addition, 2-Subtraction, 3-Multiplication, 4-Division"))
         if c in range(1,5):
             if c==1:
@@ -13,7 +13,9 @@ def calculator():
                 print("Product is :",a*b)
             elif c==4:
                 print("Quotient is :",a/b)
-
+        else:
+            print("Invalid input")
 
     except:
         print("Invalid input")
+calculator()
