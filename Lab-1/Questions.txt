@@ -1,0 +1,6 @@
+Questions:
+1). Write a python function to input two numbers and perform the calculator operations of (+,-,*,/)
+2). Write a python function that takes an integer and returns True if it's a prime number and False otherwise
+3). Create a python function that creates a sequence between 1 and 100 and prints all the odd numbers. Compute and display the sum of all the even numbers.
+4). Write a python function to add two elements and display the result.. The elements can be of type integer, float or string.
+5). Write a Python function that takes a string input from the user and counts the number of vowels and consonants in the string
