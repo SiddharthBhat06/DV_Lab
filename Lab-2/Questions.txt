@@ -1,0 +1,5 @@
+1). Write a python code block that inputs numbers into a list. Print the largest,smallest,the sum, average of the numbers. Count the occurences of a specific number in the list.
+2). Write a Python code block to create a tuple with five elements. Try to change one of the elements and handle the error that occurs. Print a message that explains why the error occured.
+3). Write a Python code block to create a dictionary of cricket world cup winners. Let the key be the year, the value is the country that won the world cup that year. Print the name of the best performing country. Display the unique list of countries that have won the world cup
+4). Write a python code block that inputs a sentence from the user. Count the frequency of each word in the sentence and store the result in a dictionary. Prints the dictionary with words as keys and their frequencies as values
+5). Write a Python code block to input numbers into two sets, Perform union,intersection and difference operations on the sets and print the results.
