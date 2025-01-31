@@ -1,0 +1,8 @@
+l=eval(input("Enter the list :"))
+ma=max(l)
+mi=min(l)
+su=sum(l)
+av=sum(l)/len(l)
+i=int(input("Enter element to count occurence of :"))
+c=l.count(i)
+print("Max is :",ma,"Min is :",mi,"Sum is :",su,"Average is :",av,"Count of",i,"is :",c)
