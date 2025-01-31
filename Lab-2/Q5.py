@@ -1,0 +1,15 @@
+q='yes'
+s1=set()
+s2=set()
+while q.lower()=='yes':
+    a=eval(input("Enter a number to add to set 1:"))
+    b=eval(input("Enter a number to add to set 2:"))
+    s1.add(a)
+    s2.add(b)
+    q=input("Do you want to add more numbers into sets?")
+print("Set 1 is :",s1)
+print("Set 2 is :",s2)
+print("Union gives :",s1.union(s2))
+print("Intersection gives :",s1.intersection(s2))
+print("Difference operation of s1 over s2 gives :",s1.difference(s2))
+print("Difference operation of s2 over s1 gives :",s2.difference(s1))
