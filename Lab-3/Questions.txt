@@ -1,0 +1,11 @@
+1)Generate a 3x4 NumPy array with random integers between 1 and 50
+  a)Calculate and print the mean,median and standard deviation
+  b)print the sum of all elements and the sum of each row
+  c)Reshape the 3x4 array into a 2x6 array and print it.
+
+2)Create two 3x3 matrices using NumPy and print it.Perform and print the results of the following linear algebra operations:
+  a)Matrix addition
+  b)Matrix subtraction
+  c)Matrix multiplication(Element wise and dot product)
+  d)Transpose of a matrix
+  e)Determinant and inverse
